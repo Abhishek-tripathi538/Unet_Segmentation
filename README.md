@@ -4,7 +4,7 @@ This repository contains a full training pipeline for binary image segmentation 
 
 ---
 
-## 🧠 What is U-Net?
+##  What is U-Net?
 
 U-Net is a type of Convolutional Neural Network (CNN) originally designed for biomedical image segmentation. It was introduced in the 2015 paper *"U-Net: Convolutional Networks for Biomedical Image Segmentation"* by Ronneberger et al.
 
@@ -150,16 +150,6 @@ After training, each image in the `test/` folder will produce a corresponding pr
 - Evaluation with IoU (Intersection over Union)
 
 ---
-
-## 📜 License
-
-This project is open-source and free to use under the MIT License.
-
----
-
-## 👨‍💻 Author
-
-Created by **Abhi** using PyTorch.
 
 If you use this project, a star on the GitHub repo would be appreciated! ⭐
 
